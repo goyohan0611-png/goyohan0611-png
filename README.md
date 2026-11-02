@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://pypi.org/project/turnbook/"><img src="https://img.shields.io/pypi/v/turnbook?label=turnbook&color=3775A9"></a>
   <a href="https://github.com/goyohan0611-png/turnbook"><img src="https://img.shields.io/github/stars/goyohan0611-png/turnbook?style=flat"></a>
-  <img src="https://img.shields.io/badge/LongMemEval-88.8%25-2ea44f">
+  <img src="https://img.shields.io/badge/LongMemEval-91.8%25-2ea44f">
 </p>
 
 ### What I'm building
