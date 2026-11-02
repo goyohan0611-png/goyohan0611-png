@@ -11,7 +11,7 @@
 - 💬 **Turnbook** saves every conversation with your AI agents (Claude Code, Codex, ...) word for word, automatically
 - 🔎 Finds the right past turns by words, meaning and time, and hands them to whichever agent asks
 - 💻 Runs on your own PC: nothing to pay to save, nothing leaves your machine
-- 📊 88.8% on LongMemEval, the public long-term chat memory benchmark
+- 📊 91.8% on LongMemEval, the public long-term chat memory benchmark
 
 ### 한국어
 AI 에이전트를 위한 로컬 장기 기억 **Turnbook**을 만들고 있습니다.
